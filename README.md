@@ -78,7 +78,7 @@ A multi-paradigm developer who builds full‑stack apps, embedded projects, and 
 
 ## How I work
 - Clear, testable code and good documentation.  
-- Iterative development: prototype → test → optimize → deploy.  
+- Iterative development: prototype → test → optimize → 6 hour doomscrolling session→ deploy.  
 - Comfortable in cross-functional teams; experienced with CI/CD and automation.
 
 ---
