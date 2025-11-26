@@ -1,4 +1,4 @@
-# Hi, I'm Prozst!
+# Hi, I'm DAKSie!
 
 A multi-paradigm developer who builds full‑stack apps, embedded projects, and systems software. I am currently a 2nd year Computer Science student in Mapua Malayan colleges Mindanao and I enjoy coding.
 
