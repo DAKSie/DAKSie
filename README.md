@@ -64,25 +64,6 @@ A multi-paradigm developer who builds full‑stack apps, embedded projects, and 
 
 ---
 
-## GitHub activity & badges
-
-- Contribution streak:  
-  ![Streak](https://nirzak-streak-stats.vercel.app/?user=DAKSie&theme=dark)
-
-- Contribution heatmap:  
-  ![GH Chart](https://ghchart.rshah.org/DAKSie)
-
-- Trophies:  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=DAKSie&theme=dark&row=1&column=4)
----
-
-## How I work
-- Clear, testable code and good documentation.  
-- Iterative development: prototype → test → optimize → 6 hour doomscrolling session→ deploy.  
-- Comfortable in cross-functional teams; experienced with CI/CD and automation.
-
----
-
 ## Reach me
 - LinkedIn: https://www.linkedin.com/in/rico-euma-aban-693119313  
 - Email: redygrassy09@gmail.com  
