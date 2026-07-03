@@ -1,7 +1,7 @@
 <h1 align="center">My name is Rico Euma O. Aban</h1>
 <h3 align="center">A full-stack developer from the philippines</h3>
 
-- I am currently working on [Student Reasearch Portal](https://student-research-web.vercel.app)
+- I am currently working on [Archivum](https://archivum-portal.duckdns.org) (also known as Student Research Portal)
 
 - I am currently learning **ExpressJs, DevOps, Django, and machine learning with python**
 
