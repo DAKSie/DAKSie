@@ -2,9 +2,7 @@
 <h3 align="center">A full-stack developer from the philippines</h3>
 
 - I am currently working on [Archivum](https://archivum-portal.duckdns.org) (also known as Student Research Portal)
-
 - I am currently learning **ExpressJs, DevOps, Django, and machine learning with python**
-
 - I am looking for collaborators on my game [SynK](https://github.com/DAKSie/Synk.git)
 
 <h3 align="left">Connect with me: redygrassy09@gmail.com or reAban@mcm.edu.ph</h3>
